@@ -102,6 +102,8 @@ For suggestions, feedback, or queries, feel free to connect with me on
 
 **LinkedIn:** https://www.linkedin.com/in/tejasri-somarouthu-78aa83355/
 
+---
+
 ## 👩‍💻 Author
 
 **Tejasri Somarouthu**
