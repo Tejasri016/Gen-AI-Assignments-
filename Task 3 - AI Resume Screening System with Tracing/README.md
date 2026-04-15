@@ -59,9 +59,9 @@ pip install -r requirements.txt
 🔑 Environment Variables
 
 Create a .env file and add:
-
+```
 OPENAI_API_KEY=your_api_key_here
-
+```
 ### ▶️ How to Run
 ```
 python main.py
