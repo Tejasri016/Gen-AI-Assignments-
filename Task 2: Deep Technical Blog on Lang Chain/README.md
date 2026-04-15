@@ -10,7 +10,7 @@ This project demonstrates how to build modular and intelligent AI applications u
 
 A detailed explanation of the project is provided in the blog document:
 
-📄 **Blog File:** `LangChain_Blog.pdf`
+📄 **Blog link :** `https://medium.com/@tejasrisomarouthu16/langchain-deep-dive-building-modular-llm-applications-with-python-69a37cbedf97`
 
 The blog covers:
 
@@ -26,8 +26,8 @@ The blog covers:
 
 The practical implementation is provided in the Jupyter Notebook:
 
-📓 **Notebook File:** `Task1-prompt-engineering.ipynb`
-
+📓 **Notebook File:** `LangChain-deep.ipynb` 
+ 
 This includes:
 
 * Prompt Templates for dynamic input
