@@ -101,3 +101,4 @@ This project was developed as part of an GEN-AI Internship Assignment to gain ha
 ## 📬 Contact
 
 For any queries or feedback, feel free to connect!
+**Linkedin :** https://www.linkedin.com/in/tejasri-somarouthu-78aa83355/
