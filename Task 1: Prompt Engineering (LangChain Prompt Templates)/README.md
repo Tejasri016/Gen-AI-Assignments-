@@ -59,14 +59,6 @@ User Input → Validation → Prompt Template → Model → Output
 
 ---
 
-## 📂 Project Structure
-
-GenAI-Prompt-Engine-LangChain  
-│── prompt_engine_langchain.ipynb  
-│── README.md  
-
----
-
 ## ▶️ How to Run
 
 1. Install dependencies:
