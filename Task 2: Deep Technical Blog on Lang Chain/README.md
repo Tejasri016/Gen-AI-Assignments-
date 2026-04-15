@@ -10,7 +10,7 @@ This project demonstrates how to build modular and intelligent AI applications u
 
 A detailed explanation of the project is provided in the blog document:
 
-📄 **Blog link :** `https://medium.com/@tejasrisomarouthu16/langchain-deep-dive-building-modular-llm-applications-with-python-69a37cbedf97`
+📄 **Blog link :** https://medium.com/@tejasrisomarouthu16/langchain-deep-dive-building-modular-llm-applications-with-python-69a37cbedf97
 
 The blog covers:
 
